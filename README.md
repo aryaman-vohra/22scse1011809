@@ -46,7 +46,7 @@ A minimal and responsive frontend application for shortening URLs, managing expi
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/url-shortener.git
+git clone https://github.com/your-username/22scse1011809.git
 cd url-shortener
 
 Install dependencies:
